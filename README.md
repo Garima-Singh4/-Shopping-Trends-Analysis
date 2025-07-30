@@ -1,4 +1,4 @@
-#### -🌼 Shopping Trends Analysis 
+## -🌼 Shopping Trends Analysis 
 An Unguided End-to-End Data Analytics Project (Excel → SQL → Power BI)
 
 This project focuses on analyzing shopping trends for a shopping app to uncover customer behavior, product preferences, and actionable business insights. It was executed entirely unguided, strengthening my ability to think like an analyst and tell a complete data story.
