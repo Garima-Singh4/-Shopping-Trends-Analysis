@@ -1,4 +1,4 @@
-## 🌼 Shopping Trends Analysis 
+## Shopping Trends Analysis🌼 
 
 An Unguided End-to-End Data Analytics Project (Excel → SQL → Power BI)
 
