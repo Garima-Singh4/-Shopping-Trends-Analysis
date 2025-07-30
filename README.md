@@ -6,49 +6,47 @@ This project focuses on analyzing shopping trends for a shopping app to uncover 
 
 ### 📌 Project Overview
 
-Dataset: shopping_trends1
+• Dataset: shopping_trends1
 
-Records: 3,900 | Columns: 19
+• Records: 3,900 | Columns: 19
 
-Objective: Understand customer behavior, uncover product trends, and enable data-driven decision-making for a shopping platform.
+• Objective: Understand customer behavior, uncover product trends, and enable data-driven decision-making for a shopping platform.
 
 ### 🔹 Tools & Technologies
 
-Excel: Data cleaning, preprocessing, initial insights, pivot tables
+• Excel: Data cleaning, preprocessing, initial insights, pivot tables
 
-MySQL: Core analysis and advanced querying
+• MySQL: Core analysis and advanced querying
 
-Power BI: Interactive dashboard creation and storytelling
+• Power BI: Interactive dashboard creation and storytelling
 
-Canva: Visuals and documentation
+• Canva: Visuals and documentation
 
 ### 🛠️ Project Workflow
 
 **Phase 1 – Excel (Data Cleaning & Preprocessing)**
 
-Removed inconsistencies and ensured data accuracy.
+• Removed inconsistencies and ensured data accuracy.
 
-Applied Excel functions:
+• Applied Excel functions: COUNT, COUNTIF, SUMIF, INDEX MATCH for preliminary insights.
 
-COUNT, COUNTIF, SUMIF, INDEX MATCH for preliminary insights.
-
-Built Pivot Tables to explore product preferences and customer purchase patterns.
+• Built Pivot Tables to explore product preferences and customer purchase patterns.
 
 **Phase 2 – SQL (Deeper Data Exploration)**
 
-Using MySQL, I performed advanced analysis:
+ Using MySQL, I performed advanced analysis:
 
-Identified top-selling product categories.
+• Identified top-selling product categories.
 
-Segmented customers based on purchase frequency.
+• Segmented customers based on purchase frequency.
 
-Analyzed the effectiveness of discounts and promo codes.
+• Analyzed the effectiveness of discounts and promo codes.
 
-Uncovered seasonal shopping patterns.
+• Uncovered seasonal shopping patterns.
 
-Measured impact of review ratings on buying decisions.
+• Measured impact of review ratings on buying decisions.
 
-Compared subscription vs. non-subscription user behavior.
+• Compared subscription vs. non-subscription user behavior.
 
 **Phase 3 – Power BI (Visualization & Insights)**
 
@@ -56,45 +54,45 @@ Built a dynamic, scrollable, interactive dashboard to bring insights to life.
 
 Dashboard Highlights:
 
-KPI Section (Quick Business Snapshots)
+1. KPI Section (Quick Business Snapshots)
 
-Customers with >30 Purchases (loyalty measure)
+• Customers with >30 Purchases (loyalty measure)
 
-Average Purchase Amount (spend per transaction)
+• Average Purchase Amount (spend per transaction)
 
-Average Rating (customer satisfaction metric)
+• Average Rating (customer satisfaction metric)
 
-Top Customer Total Spend (high-value customers)
+• Top Customer Total Spend (high-value customers)
 
-Dynamic Filters (Slicers)
+2. Dynamic Filters (Slicers)
 
-Category
+• Category
 
-Gender
+• Gender
 
-Season
+• Season
 
-Visualization Section
+3. Visualization Section
 
-Most Purchased Items – Top trending products
+• Most Purchased Items – Top trending products
 
-Purchase Distribution by Gender – Category preferences across genders
+• Purchase Distribution by Gender – Category preferences across genders
 
-Discount Impact on Orders – How discounts influence purchases
+• Discount Impact on Orders – How discounts influence purchases
 
-Purchases by Season – Seasonal buying trends
+• Purchases by Season – Seasonal buying trends
 
-Top Locations by Total Revenue – Highest revenue-generating regions
+• Top Locations by Total Revenue – Highest revenue-generating regions
 
-Payment Method Popularity – Preferred transaction methods
+• Payment Method Popularity – Preferred transaction methods
 
 **✨ Key Takeaways**
 
-Developed end-to-end analytics skills: data cleaning, SQL querying, and dashboarding.
+• Developed end-to-end analytics skills: data cleaning, SQL querying, and dashboarding.
 
-Learned how to uncover real business insights beyond guided tasks.
+• Learned how to uncover real business insights beyond guided tasks.
 
-Strengthened storytelling ability with data, making insights actionable for stakeholders.
+• Strengthened storytelling ability with data, making insights actionable for stakeholders.
 
 **🔗 Connect with Me**
 
